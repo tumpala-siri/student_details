@@ -1,0 +1,44 @@
+.bg{
+    background-image:url('vecteezy_ai-generated-globe-books-and-school-bag-on-minimalist-vivid_37227212 (1).jpeg');
+    background-size: cover;
+    height:100vh;
+    display:flex;
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    color:rgb(0, 0, 0);
+    background-color: rgb(120, 139, 168);
+    margin:10px;
+    padding:10px;
+    border-radius: 10px;
+    text-transform: capitalize;
+}
+h1{
+    color:rgb(224, 213, 207);
+    text-align: center;
+    font-style: italic;
+}
+button:hover{
+    background-color: #2958f0;
+    margin:6px;
+}
+p{
+    color:black;
+}
+ul{
+    color:rgb(200, 219, 235);
+    font-size:30px;
+    font-weight: 500;
+    text-align: center;
+    list-style-type: none;
+    padding:20px;
+}
+.sub{
+    background-image:linear-gradient(rgb(88, 207, 207),rgb(50, 218, 162),rgb(18, 207, 240)
+    );
+    border-radius: 10px;
+    
+}
